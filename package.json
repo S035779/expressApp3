@@ -1,0 +1,27 @@
+{
+  "name": "express-sample-code3",
+  "version": "0.0.1",
+  "description": "Express MVC sample code #3.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mamoru Hashimoto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S035779/expressApp3.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/S035779/expressApp3/issues"
+  },
+  "homepage": "https://github.com/S035779/expressApp3#readme"
+}
